@@ -5,6 +5,7 @@ The jupyter notebook contains normal distribution of probabilities for coverage 
 
 -----------------------------------------------------------------------
 Here is the key for the ThreeWeeksRaw.csv file:
+
 For the column header "Hazard"
 1 = "Tornado"
 2 = "Severe"

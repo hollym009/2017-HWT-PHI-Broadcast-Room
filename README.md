@@ -20,4 +20,5 @@ For the column header "Coverage type"
 For the column header "Urban/Rural"
 1 = Rural
 2 = Urban
+
 -----------------------------------------------------------------------
